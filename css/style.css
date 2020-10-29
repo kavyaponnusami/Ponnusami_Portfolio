@@ -204,6 +204,7 @@ body {
     font-weight: normal;
     /* color: #888888; */
     margin: 0;
+    width:auto;
 }
 
 h2 {
@@ -1058,6 +1059,7 @@ border: 1px solid #CE1139;
 .contact_section {
     text-align: center
     margin: 0 0 60px 0;
+    width:auto;
 }
 
 .contact_section h2 {
