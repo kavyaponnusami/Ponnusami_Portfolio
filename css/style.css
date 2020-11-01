@@ -7,6 +7,15 @@ Author: http://webthemez.com
 
 /* Reset
 ---------------------------------*/
+html{
+    width:auto !important;
+    }
+    
+    @media only screen and (max-width:767px){
+    html{
+    width:fit-content !important;
+    }
+    }
 ul {
     list-style: none;
 }
