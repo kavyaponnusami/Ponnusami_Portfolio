@@ -1183,7 +1183,7 @@ border: 1px solid #CE1139;
     text-align: right;
     margin: 0 auto;
 }
-}
+
 .footer_wrapper .social_links{
     text-align: center;
     padding-left: 17px;
@@ -1193,7 +1193,7 @@ border: 1px solid #CE1139;
     display: inline-block;
     margin-right: 30px;
     /* border: 1px solid #285d6b; */
-    padding: 0px;
+    padding: 0px; 
 }
 
 .social_links li a {
