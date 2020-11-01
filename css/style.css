@@ -1201,21 +1201,21 @@ border: 1px solid #CE1139;
     width: 52px;
     height: 52px;
     text-align: center;
-    line-height: 10px;
-    font-size: 10px;
+    line-height: 48px;
+    font-size: 20px;
     color: #00283a;
-    
+    border: 1px solid #163840;
 }
 
 .contact .social_links li a {
     display: block;
     text-align: center;
     color: #ffffff;
-    
+    border: 1px solid #ffffff;
 }
 .social_links li a:hover, .social_links li a:focus {
     text-decoration: none;
-    
+    background: #000000;
 }
 
 .twitter a:hover {
