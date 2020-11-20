@@ -272,6 +272,7 @@ p {
 
 .res-nav_click {
     display: none;
+
 }
 	
 
@@ -282,7 +283,7 @@ p {
     text-align: center;
     border-color: #616161;
 }
-.navbar-inverse {
+.nav-inverse {
     background-color: transparent;
     border-color: transparent;
 }
@@ -390,7 +391,12 @@ p {
 /* Top_content
 ---------------------------------*/
 .hero_section img{
-	width:100%;
+    width:100%;
+    background-repeat: no-repeat;
+    background-position: right;
+    background-size: auto 100%;
+    background-position-y: 70px;
+    
 }
 .top_cont_outer {
     position: relative;
